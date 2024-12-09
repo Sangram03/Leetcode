@@ -23,6 +23,7 @@ I want share my updates on daily basis practice.
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/Sangram03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sangram03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ I want share my updates on daily basis practice.
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/Sangram03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sangram03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -45,4 +47,8 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/Sangram03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
