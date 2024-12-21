@@ -118,4 +118,12 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sangram03/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+## Tree
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Sangram03/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Sangram03/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
