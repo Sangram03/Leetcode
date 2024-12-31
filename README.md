@@ -19,11 +19,13 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sangram03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1025-minimum-cost-for-tickets](https://github.com/Sangram03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sangram03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Array
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sangram03/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1025-minimum-cost-for-tickets](https://github.com/Sangram03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sangram03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sangram03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sangram03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
