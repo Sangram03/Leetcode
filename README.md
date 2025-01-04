@@ -12,6 +12,7 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sangram03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sangram03/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sangram03/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sangram03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -40,6 +41,7 @@ I want share my updates on daily basis practice.
 ## Hash Table
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sangram03/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sangram03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sangram03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -80,6 +82,7 @@ I want share my updates on daily basis practice.
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sangram03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
 ## Sliding Window
@@ -140,4 +143,8 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sangram03/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
