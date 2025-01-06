@@ -12,6 +12,7 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sangram03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sangram03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sangram03/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sangram03/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -29,6 +30,7 @@ I want share my updates on daily basis practice.
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sangram03/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sangram03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sangram03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sangram03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sangram03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2465-shifting-letters-ii](https://github.com/Sangram03/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -84,6 +86,7 @@ I want share my updates on daily basis practice.
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sangram03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Sangram03/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sangram03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
