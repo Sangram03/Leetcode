@@ -19,6 +19,7 @@ I want share my updates on daily basis practice.
 | [2465-shifting-letters-ii](https://github.com/Sangram03/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sangram03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sangram03/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ I want share my updates on daily basis practice.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sangram03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Sangram03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sangram03/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sangram03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -153,4 +155,20 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
