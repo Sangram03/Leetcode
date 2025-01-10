@@ -12,6 +12,7 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sangram03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0952-word-subsets](https://github.com/Sangram03/Leetcode/tree/master/0952-word-subsets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sangram03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sangram03/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -30,6 +31,7 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sangram03/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/Sangram03/Leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sangram03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sangram03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sangram03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -47,6 +49,7 @@ I want share my updates on daily basis practice.
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Sangram03/Leetcode/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sangram03/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sangram03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
