@@ -42,6 +42,7 @@ I want share my updates on daily basis practice.
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sangram03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sangram03/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sangram03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sangram03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/Sangram03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sangram03/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -55,6 +56,7 @@ I want share my updates on daily basis practice.
 | [2300-construct-string-with-repeat-limit](https://github.com/Sangram03/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sangram03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sangram03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sangram03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sangram03/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
 |  |
@@ -161,6 +163,7 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sangram03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
