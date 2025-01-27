@@ -150,11 +150,13 @@ I want share my updates on daily basis practice.
 ## Depth-First Search
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/Sangram03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sangram03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Sangram03/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/Sangram03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sangram03/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
@@ -184,9 +186,11 @@ I want share my updates on daily basis practice.
 ## Graph
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/Sangram03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sangram03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/Sangram03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sangram03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
