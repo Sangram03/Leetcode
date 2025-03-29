@@ -48,6 +48,7 @@ I want share my updates on daily basis practice.
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sangram03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/Sangram03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sangram03/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sangram03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -78,6 +79,7 @@ I want share my updates on daily basis practice.
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sangram03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sangram03/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sangram03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ I want share my updates on daily basis practice.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sangram03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sangram03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sangram03/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,16 +139,19 @@ I want share my updates on daily basis practice.
 ## Math
 |  |
 | ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sangram03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sangram03/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sangram03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sangram03/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
 | ------- |
@@ -211,4 +217,8 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/Sangram03/Leetcode/tree/master/2107-find-unique-binary-string) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
