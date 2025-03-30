@@ -7,11 +7,13 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sangram03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0768-partition-labels](https://github.com/Sangram03/Leetcode/tree/master/0768-partition-labels) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sangram03/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sangram03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0768-partition-labels](https://github.com/Sangram03/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Sangram03/Leetcode/tree/master/0952-word-subsets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sangram03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -55,6 +57,7 @@ I want share my updates on daily basis practice.
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Sangram03/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Sangram03/Leetcode/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Sangram03/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -74,6 +77,7 @@ I want share my updates on daily basis practice.
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Sangram03/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sangram03/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sangram03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sangram03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
