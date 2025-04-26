@@ -42,6 +42,7 @@ I want share my updates on daily basis practice.
 | [2107-find-unique-binary-string](https://github.com/Sangram03/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sangram03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2465-shifting-letters-ii](https://github.com/Sangram03/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Sangram03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sangram03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Sangram03/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sangram03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -122,6 +123,7 @@ I want share my updates on daily basis practice.
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Sangram03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Sangram03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sangram03/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sangram03/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -139,6 +141,7 @@ I want share my updates on daily basis practice.
 ## Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Sangram03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Sangram03/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -147,6 +150,7 @@ I want share my updates on daily basis practice.
 ## Monotonic Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Sangram03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Sangram03/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Math
 |  |
