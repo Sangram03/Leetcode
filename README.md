@@ -23,6 +23,7 @@ I want share my updates on daily basis practice.
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sangram03/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Sangram03/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sangram03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sangram03/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sangram03/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
@@ -31,6 +32,7 @@ I want share my updates on daily basis practice.
 | [0005-longest-palindromic-substring](https://github.com/Sangram03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sangram03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sangram03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sangram03/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +56,7 @@ I want share my updates on daily basis practice.
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sangram03/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sangram03/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sangram03/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Sangram03/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sangram03/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -92,6 +95,7 @@ I want share my updates on daily basis practice.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sangram03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Sangram03/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sangram03/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
