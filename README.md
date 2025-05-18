@@ -37,6 +37,7 @@ I want share my updates on daily basis practice.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sangram03/Leetcode/tree/master/0001-two-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sangram03/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Sangram03/Leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sangram03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -67,6 +68,7 @@ I want share my updates on daily basis practice.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sangram03/Leetcode/tree/master/0001-two-sum) |
 | [0768-partition-labels](https://github.com/Sangram03/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Sangram03/Leetcode/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
