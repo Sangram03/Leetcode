@@ -31,6 +31,7 @@ I want share my updates on daily basis practice.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sangram03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sangram03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Sangram03/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sangram03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sangram03/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Array
