@@ -62,6 +62,7 @@ I want share my updates on daily basis practice.
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Sangram03/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sangram03/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sangram03/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/Sangram03/Leetcode/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sangram03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sangram03/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -109,6 +110,7 @@ I want share my updates on daily basis practice.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sangram03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sangram03/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/Sangram03/Leetcode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,6 +168,7 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/Sangram03/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sangram03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
