@@ -65,6 +65,7 @@ I want share my updates on daily basis practice.
 | [3321-type-of-triangle](https://github.com/Sangram03/Leetcode/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sangram03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/Sangram03/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sangram03/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -131,6 +132,7 @@ I want share my updates on daily basis practice.
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sangram03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sangram03/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Sangram03/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Sliding Window
 |  |
 | ------- |
