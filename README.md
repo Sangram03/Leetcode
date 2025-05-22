@@ -67,6 +67,7 @@ I want share my updates on daily basis practice.
 | [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sangram03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Sangram03/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Sangram03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sangram03/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ I want share my updates on daily basis practice.
 | [2681-put-marbles-in-bags](https://github.com/Sangram03/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sangram03/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Sangram03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@ I want share my updates on daily basis practice.
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sangram03/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/Sangram03/Leetcode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/Sangram03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,6 +128,7 @@ I want share my updates on daily basis practice.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Sangram03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Sangram03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sangram03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Sangram03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,6 +139,7 @@ I want share my updates on daily basis practice.
 | [2915-count-of-interesting-subarrays](https://github.com/Sangram03/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/Sangram03/Leetcode/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Sangram03/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Sangram03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
