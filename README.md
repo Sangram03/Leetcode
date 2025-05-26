@@ -32,6 +32,7 @@ I want share my updates on daily basis practice.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sangram03/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sangram03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Sangram03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Sangram03/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sangram03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sangram03/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -78,6 +79,7 @@ I want share my updates on daily basis practice.
 | [0073-set-matrix-zeroes](https://github.com/Sangram03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/Sangram03/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Sangram03/Leetcode/tree/master/0952-word-subsets) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Sangram03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sangram03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Sangram03/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sangram03/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -153,6 +155,7 @@ I want share my updates on daily basis practice.
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Sangram03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sangram03/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sangram03/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Simulation
@@ -239,11 +242,13 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Sangram03/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Sangram03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sangram03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Sangram03/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Sangram03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Sangram03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
@@ -262,4 +267,8 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Sangram03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
