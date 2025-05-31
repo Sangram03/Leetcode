@@ -42,6 +42,7 @@ I want share my updates on daily basis practice.
 | [0001-two-sum](https://github.com/Sangram03/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sangram03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sangram03/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0945-snakes-and-ladders](https://github.com/Sangram03/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sangram03/Leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sangram03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sangram03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -214,6 +215,7 @@ I want share my updates on daily basis practice.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/Sangram03/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1558-course-schedule-iv](https://github.com/Sangram03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sangram03/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sangram03/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -264,6 +266,7 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sangram03/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/Sangram03/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sangram03/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Backtracking
 |  |
