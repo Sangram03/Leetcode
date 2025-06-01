@@ -183,6 +183,7 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sangram03/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Sangram03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Sangram03/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sangram03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
@@ -280,4 +281,12 @@ I want share my updates on daily basis practice.
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sangram03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Sangram03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Sangram03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
